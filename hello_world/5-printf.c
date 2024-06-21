@@ -8,4 +8,4 @@ int main(void)
 {
 	printf("with proper grammar,
 			return (0);
-			}
+}
