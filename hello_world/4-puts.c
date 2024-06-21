@@ -8,9 +8,8 @@
  */
 int main (void)
 {
-	puts("/"Programming is like
-
-			return (0);
+	puts("/Programming is like");
+	return (0);
 	    
-			}
+}
 
